@@ -1,0 +1,14 @@
+<group>
+	<scan_radius>5</scan_radius>
+	<rotate>168</rotate>
+	<filter_left>1</filter_left>
+	<filter_right>2800</filter_right>
+	<filter_top>1</filter_top>
+	<filter_bottom>1325</filter_bottom>
+	<up>1</up>
+	<down>115</down>
+	<left>295</left>
+	<right>930</right>
+<group/>
+	<show_scan_data>1</show_scan_data>
+</group>
